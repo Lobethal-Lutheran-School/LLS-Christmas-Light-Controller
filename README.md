@@ -41,4 +41,11 @@ The board was designed in pcb-rnd ( www.repo.hu/projects/pcb-rnd ); the board de
 
 The schematic was designed in and can be opened in Lepton-Schematic.
 
+TODO:
+
+- add DSP code to utilise the audio input for light synchronisation
+- add polarity protection diodes to the 5V and LED power inputs on the next revision of the layout
+- consider adding a light dependent resistor option to the next revision of the layout
+- consider adding a serial programming footprint to the next revision of the layout
+
 Enjoy!
