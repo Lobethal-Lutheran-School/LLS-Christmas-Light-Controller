@@ -1,0 +1,5 @@
+R1,R2   10k
+C1,C2   100nF
+R3-R6   47k
+U1-U4   L293 motor driver IC
+U5      stm32 BluePill or equivalent single board computer
