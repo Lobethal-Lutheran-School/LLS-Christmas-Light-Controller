@@ -17,18 +17,22 @@ The code will build within the arduino IDE, and the resulting firmware can be lo
 
 Lighting modes currently supported include:
 
-All on
-Slow Flash
-Slow Flash with ramped brightness
-Fast Flash
-Random flash
-Light chase
-Light chase with bounce (pong)
-Light chase with ramped brightness
-Light chase with bounce (pong) with ramped brightness
-Text to Morse Code (Default text is "Lobethal Lutheran School")
-Alternating bidirectional flash
+- All on
+- Slow Flash
+- Slow Flash with ramped brightness
+- Fast Flash
+- Random flash
+- Light chase
+- Light chase with bounce (pong)
+- Light chase with ramped brightness
+- Light chase with bounce (pong) with ramped brightness
+- Text to Morse Code (Default text is "Lobethal Lutheran School")
+- Alternating bidirectional flash
 
 The board design files are in the hardware directory as zipped gerbers which can be used to order boards from the usual online suppliers, usually in batches of ten.
+
+The board was designed in pcb-rnd ( www.repo.hu/projects/pcb-rnd ); the board design is licensed under the TAPR open hardware license and the layout can be modified by those keen to customise.
+
+The schematic was designed in and can be opened in Lepton-Schematic.
 
 Enjoy!
