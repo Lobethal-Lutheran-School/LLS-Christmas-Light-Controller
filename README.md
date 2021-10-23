@@ -33,6 +33,8 @@ The board design files are in the hardware directory as zipped gerbers which can
 
 The board was designed in pcb-rnd ( www.repo.hu/projects/pcb-rnd ); the board design is licensed under the TAPR open hardware license and the layout can be modified by those keen to customise.
 
+![Image](images/LLS-christmas-lights-v1.png)
+
 The schematic was designed in and can be opened in Lepton-Schematic.
 
 Enjoy!
