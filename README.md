@@ -35,6 +35,10 @@ Lighting modes currently supported include:
 
 The board design files are in the hardware directory as zipped gerbers which can be used to order boards from the usual online suppliers, usually in batches of ten.
 
+![Image](images/PCB-v1-front.jpg)
+
+![Image](images/PCB-v1-back.jpg)
+
 The board was designed in pcb-rnd ( www.repo.hu/projects/pcb-rnd ); the board design is licensed under the TAPR open hardware license and the layout can be modified by those keen to customise.
 
 ![Image](images/LLS-christmas-lights-v1.png)
