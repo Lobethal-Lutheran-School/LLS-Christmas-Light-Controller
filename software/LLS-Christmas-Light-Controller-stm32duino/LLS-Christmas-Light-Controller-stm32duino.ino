@@ -73,7 +73,7 @@
 #define MODE_BUTTON PB10
 
 #define AUDIO_CHAN1 PA12
-#define AUDIO_CHAN1 PA15
+#define AUDIO_CHAN2 PA15
 
 #define LED PC13
 
